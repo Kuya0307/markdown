@@ -2,6 +2,8 @@
 ## BanG Dream! It’s MyGO!!!!!
 ![BanG Dream! It’s MyGO!!!!!](./img/Mygo-1.jpg)
 >画像の引用 : https://anime.bang-dream.com/mygo/
+
+## 迷子でもいい…迷子でも進め!!
 ### あらすじ
 >高1の春の終わり。羽丘女子学園では誰も彼もがバンドをしており、
 遅れて入学した愛音も早くクラスに馴染めるよう、急いでバンドメンバーを探す。
