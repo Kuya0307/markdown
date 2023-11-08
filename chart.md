@@ -4,8 +4,8 @@
 | 銀行でお金をおろす | 太郎 | ★ |  |  |  |  |  |
 | スーパーで卵を買う | 太郎 |  | ★ |  |  |  |  |
 | 卵を洗う           | 太郎 |  |  | ★ |  |  |  |
-| お湯を沸かす       | 花子 | <span style="color=green"> | <span style="color=green"> |  |  |  |  |
+| お湯を沸かす       | 花子 | <span style="background-color=green"> | <span style="background-color=green"> |  |  |  |  |
 | 卵をゆでる         | 花子 |  |  |  | ★ |  |  |
-| 腹筋して腹を減らす | 花子 |  |  |  | <span style="color=pink"> | <span style="color=pink"> | <span style="color=pink"> |
+| 腹筋して腹を減らす | 花子 |  |  |  | <span style="bgcolor=green"> | <span style="background-color=pink"> | <span style="color=pink"> |
 | 殻を割る           | 太郎 |  |  |  |  | ★ |  |
 | 塩を振る           | 花子 |  |  |  |  |  | ★ |
